@@ -23,8 +23,6 @@ projects:
     forks: false
     projects:
       - web-m
-      #- app-version-history
-      #- issue-mcve
   include:
     - csc480-19s/SMARTron
     - untitled01exe/445p3
@@ -33,9 +31,8 @@ projects:
     - untitled01exe/380_library_game
 
 social_media:
-  #twitter: SUPERCILEX
+  website: jackalope.design
   instagram: fantastic.fernando
-  #medium: SUPERCILEX
 
 #topics:
 #  - name: Android
