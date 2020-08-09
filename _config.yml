@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,10 +26,11 @@ projects:
       - app-version-history
       - issue-mcve
   include:
-    - Triple-T/gradle-play-publisher
-    - firebase/FirebaseUI-Android
-    - googlesamples/easypermissions
-    - yshrsmz/LicenseAdapter
+    - csc480-19s/SMARTron
+    - untitled01exe/445p3
+    - kgordo/CSC445P2
+    - untitled01exe/goassign/blob/master/g.go
+    - untitled01exe/380_library_game
 
 social_media:
   #twitter: SUPERCILEX
