@@ -17,7 +17,7 @@ defaults:
 
 projects:
   sort_by: pushed
-  limit:
+  limit: 12
   exclude:
     archived: true
     forks: false
