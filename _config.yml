@@ -22,9 +22,9 @@ projects:
     archived: true
     forks: false
     projects:
-      - personal-website
-      - app-version-history
-      - issue-mcve
+      - web-m
+      #- app-version-history
+      #- issue-mcve
   include:
     - csc480-19s/SMARTron
     - untitled01exe/445p3
