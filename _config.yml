@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -25,10 +25,11 @@ projects:
       - web-m
   include:
     - csc480-19s/SMARTron
-    - untitled01exe/445p3
+    - untitled01exe/IntCoin
     - kgordo/CSC445P2
-    - untitled01exe/goassign/blob/master/g.go
-    - untitled01exe/380_library_game
+    - untitled01exe/GoMuxer
+    #- untitled01exe/goassign/blob/master/g.go
+    #- untitled01exe/380_library_game
 
 social_media:
   website: jackalope.design
