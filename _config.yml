@@ -22,7 +22,7 @@ projects:
     archived: true
     forks: false
     projects:
-      - web-m
+      - w
   include:
     - csc480-19s/SMARTron
     - untitled01exe/IntCoin
