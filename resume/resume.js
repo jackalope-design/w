@@ -6,7 +6,7 @@ function downloadResume() {
     request.responseType = 'blob';
     request.open(
         "GET",
-        "https://drive.google.com/file/d/1PFN54FE8P3JD6lld3NHdwMyEx9CyKVaZ/view?usp=sharing"
+        "https://drive.google.com/uc?export=download&id=1PFN54FE8P3JD6lld3NHdwMyEx9CyKVaZ"
     );
     request.onload = onDownloaded;
     request.send(null);
