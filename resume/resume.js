@@ -16,7 +16,7 @@ function downloadResume() {
 function onDownloaded() {
     const link = document.createElement('a');
     link.href = window.URL.createObjectURL(request.response);
-    link.download = "AlexSaveau.pdf";
+    link.download = "MatthewFernandez.pdf";
     link.click();
 
     window.location.replace("/");
